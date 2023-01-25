@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FilmsApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="imdb_rate">IMDB : %s</string>
+    <string name="error">%s isminde bir film bulunamamıştır</string>
+    <string name="caution">Lütfen arama çubuğunu boş bırakmayınız.</string>
+    <string name="tamam">Tamam</string>
+</resources>
